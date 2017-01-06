@@ -4,7 +4,6 @@
 //server.js
 
 //基础配置
-
 //加载模块
 var express = require('express');
 var app = express();
